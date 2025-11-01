@@ -127,14 +127,7 @@ Models rely on historical data and may not account for future market volatility 
 
 Ensure transparency and reproducibility when retraining with updated data.
 
-# 🧩 Project Files
-File Name	Description
-CocaCola_Stock_Analysis.ipynb	Main Jupyter notebook containing EDA, feature engineering, and modeling
-best_model_pipeline.pkl	Serialized trained model
-feature_order.json	Feature configuration for app input
-app.py	Streamlit web application
-Coca-Cola_stock_history.csv	Historical stock dataset
-Coca-Cola_stock_info.csv	Stock info dataset
+
 # 🕒 Future Enhancements
 
 Add LSTM / deep learning models for improved temporal prediction
